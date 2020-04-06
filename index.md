@@ -7,7 +7,7 @@
 - [Desafio_v2](https://nbviewer.jupyter.org/github/dzanellato/teste/blob/master/desafio.ipynb)
 
 ### Estudos
-* #### R
+* #### R\ 
 [Rmarkdown: primeiros passos](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/R/Rmarkdown/primeiros_passos.html)
 
 
