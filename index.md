@@ -6,6 +6,10 @@
 - [Desafio](https://dzanellato.github.io/teste/)
 - [Desafio_v2](https://nbviewer.jupyter.org/github/dzanellato/teste/blob/master/desafio.ipynb)
 
+### Artigos
+- [Hands-on: detectando menções a ataques hackers](https://medium.com/heimdall-research/hands-on-detectando-men%C3%A7%C3%B5es-a-ataques-hackers-7b5125b2241c)
+
+
 ### Estudos
 - #### R
 [Rmarkdown: primeiros passos](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/R/Rmarkdown/primeiros_passos.html)
