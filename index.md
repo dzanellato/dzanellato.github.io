@@ -11,8 +11,7 @@
 
 
 ### Estudos
-- #### R
-[Rmarkdown: primeiros passos](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/R/Rmarkdown/primeiros_passos.html)
+- [Rmarkdown: primeiros passos (em R)](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/Rmarkdown/primeiros_passos.html)
 
 
 
