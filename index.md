@@ -11,6 +11,7 @@
 
 
 ### Estudos
+- [Detecção de outliers (em R)] 
 - [Rmarkdown: primeiros passos (em R)](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/Rmarkdown/primeiros_passos.html)
 
 
