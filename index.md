@@ -12,7 +12,7 @@
 
 
 ### Estudos
-- [Análise Explotatória de dados: um guia](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/EDA/Guide.html)
+- [Análise Explotatória de Dados: um Guia](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/EDA/Guide.html)
 - [Detecção de outliers (em R)](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/Outliers/outliers.html) 
 - [Rmarkdown: primeiros passos (em R)](http://htmlpreview.github.io/?https://github.com/dzanellato/Estudos/blob/master/Rmarkdown/primeiros_passos.html)
 
