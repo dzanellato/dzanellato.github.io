@@ -3,7 +3,7 @@ logo: "/images/foto.png?raw=true" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
   Físico Teórico (QFT)<br>
   Cientista de Dados 
-  <br>
+  <br><br>
   <a href="/pdf/diego_zanellato_cv.pdf">Curriculum Vitae</a> 
   
 theme: jekyll-theme-minimal
